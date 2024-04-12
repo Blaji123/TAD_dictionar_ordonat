@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TAD_Dictionar_Ordonat",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TAD_Dictionar_Ordonat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TAD_Dictionar_Ordonat-Debug-a155e4b2f3f0781c0933.json",
+					"name" : "TAD_Dictionar_Ordonat",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Blajan David/faculta/sem 2 - sda/TAD Dictionar Ordonat/cmake-build-debug",
+		"source" : "C:/Users/Blajan David/faculta/sem 2 - sda/TAD Dictionar Ordonat"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
